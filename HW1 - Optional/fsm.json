@@ -1,0 +1,27 @@
+{
+    "states": ["IDLE", "FIRST_BIT", "SECOND_BIT", "UNLOCKED"],
+    "inputs": ["clk", "rst", "inp"],
+    "output": "unlocked",
+    "transitions": {
+        "IDLE": {
+            "1": "FIRST_BIT",
+            "0": "IDLE",
+            "rst": "IDLE"
+        },
+        "FIRST_BIT": {
+            "0": "SECOND_BIT",
+            "1": "IDLE",
+            "rst": "IDLE"
+        },
+        "SECOND_BIT": {
+            "1": "UNLOCKED",
+            "0": "IDLE",
+            "rst": "IDLE"
+        },
+        "UNLOCKED": {
+            "rst": "IDLE"
+        }
+    },
+    "initial_state": "IDLE",
+    "final_state": "UNLOCKED"
+}

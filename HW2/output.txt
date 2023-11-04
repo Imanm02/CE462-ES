@@ -1,0 +1,583 @@
+Temperature: 3
+State: S3
+S3 State: S2
+Temperature: 33
+State: S1
+Temperature: 33
+State: S1
+Temperature: -8
+State: S3
+S3 State: S3
+Temperature: 5
+State: S3
+S3 State: S3
+Temperature: 7
+State: S3
+S3 State: S2
+Temperature: 24
+State: S3
+S3 State: S1
+Temperature: -8
+State: S3
+S3 State: S3
+Temperature: -4
+State: S3
+S3 State: S3
+Temperature: 19
+State: S3
+S3 State: S1
+Temperature: 17
+State: S3
+S3 State: S1
+Temperature: 24
+State: S3
+S3 State: S1
+Temperature: 40
+State: S2
+S2 State: S1
+Temperature: 31
+State: S2
+S2 State: S1
+Temperature: 43
+State: S2
+S2 State: S2
+Temperature: -3
+State: S3
+S3 State: S2
+Temperature: 44
+State: S2
+S2 State: S2
+Temperature: 50
+State: S2
+S2 State: S3
+Temperature: 14
+State: S3
+S3 State: S2
+Temperature: 10
+State: S3
+S3 State: S2
+Temperature: 36
+State: S2
+S2 State: S2
+Temperature: 25
+State: S2
+S2 State: S1
+Temperature: 40
+State: S2
+S2 State: S1
+Temperature: -8
+State: S3
+S3 State: S3
+Temperature: 37
+State: S2
+S2 State: S1
+Temperature: -1
+State: S3
+S3 State: S3
+Temperature: 44
+State: S2
+S2 State: S2
+Temperature: 27
+State: S2
+S2 State: S1
+Temperature: 5
+State: S3
+S3 State: S3
+Temperature: 50
+State: S2
+S2 State: S3
+Temperature: 32
+State: S2
+S2 State: S1
+Temperature: 19
+State: S1
+Temperature: 10
+State: S3
+S3 State: S2
+Temperature: -9
+State: S3
+S3 State: S3
+Temperature: 49
+State: S2
+S2 State: S3
+Temperature: 22
+State: S1
+Temperature: 13
+State: S3
+S3 State: S2
+Temperature: 32
+State: S1
+Temperature: 40
+State: S2
+S2 State: S3
+Temperature: 45
+State: S2
+S2 State: S3
+Temperature: -1
+State: S3
+S3 State: S2
+Temperature: 15
+State: S3
+S3 State: S2
+Temperature: 40
+State: S2
+S2 State: S3
+Temperature: 10
+State: S3
+S3 State: S2
+Temperature: 19
+State: S3
+S3 State: S1
+Temperature: 24
+State: S3
+S3 State: S1
+Temperature: 1
+State: S3
+S3 State: S2
+Temperature: 25
+State: S3
+S3 State: S1
+Temperature: 13
+State: S3
+S3 State: S1
+Temperature: 44
+State: S2
+S2 State: S3
+Temperature: 31
+State: S2
+S2 State: S1
+Temperature: 9
+State: S3
+S3 State: S1
+Temperature: 8
+State: S3
+S3 State: S1
+Temperature: 25
+State: S3
+S3 State: S1
+Temperature: 17
+State: S3
+S3 State: S1
+Temperature: 30
+State: S3
+S3 State: S1
+Temperature: -10
+State: S3
+S3 State: S3
+Temperature: 28
+State: S3
+S3 State: S1
+Temperature: 3
+State: S3
+S3 State: S2
+Temperature: 25
+State: S3
+S3 State: S1
+Temperature: 19
+State: S3
+S3 State: S1
+Temperature: 7
+State: S3
+S3 State: S1
+Temperature: 17
+State: S3
+S3 State: S1
+Temperature: 6
+State: S3
+S3 State: S1
+Temperature: 6
+State: S3
+S3 State: S1
+Temperature: 4
+State: S3
+S3 State: S2
+Temperature: 36
+State: S2
+S2 State: S1
+Temperature: 31
+State: S2
+S2 State: S1
+Temperature: 30
+State: S2
+S2 State: S1
+Temperature: 33
+State: S2
+S2 State: S1
+Temperature: 35
+State: S2
+S2 State: S1
+Temperature: 6
+State: S3
+S3 State: S2
+Temperature: 45
+State: S2
+S2 State: S2
+Temperature: 39
+State: S2
+S2 State: S2
+Temperature: 34
+State: S2
+S2 State: S1
+Temperature: 25
+State: S2
+S2 State: S1
+Temperature: 28
+State: S2
+S2 State: S1
+Temperature: 30
+State: S2
+S2 State: S1
+Temperature: -5
+State: S3
+S3 State: S2
+Temperature: 37
+State: S2
+S2 State: S1
+Temperature: 39
+State: S2
+S2 State: S1
+Temperature: 39
+State: S2
+S2 State: S1
+Temperature: 47
+State: S2
+S2 State: S3
+Temperature: 33
+State: S2
+S2 State: S1
+Temperature: 22
+State: S1
+Temperature: 1
+State: S3
+S3 State: S2
+Temperature: 43
+State: S2
+S2 State: S2
+Temperature: -8
+State: S3
+S3 State: S3
+Temperature: 12
+State: S3
+S3 State: S2
+Temperature: 26
+State: S3
+S3 State: S1
+Temperature: 6
+State: S3
+S3 State: S1
+Temperature: 5
+State: S3
+S3 State: S1
+Temperature: 34
+State: S1
+Temperature: -1
+State: S3
+S3 State: S2
+Temperature: 6
+State: S3
+S3 State: S2
+Temperature: 34
+State: S1
+Temperature: -8
+State: S3
+S3 State: S3
+Temperature: 37
+State: S2
+S2 State: S2
+Temperature: 12
+State: S3
+S3 State: S2
+Temperature: 40
+State: S2
+S2 State: S2
+
+[Done] exited with code=0 in 0.159 seconds
+
+[Running] python -u "d:\ترم ۷\نهفته انصاری\HW2\encubator.py"
+Temperature: 22
+State: S1
+Temperature: 32
+State: S1
+Temperature: 18
+State: S1
+Temperature: 32
+State: S1
+Temperature: 24
+State: S1
+Temperature: 12
+State: S3
+S3 State: S1
+Temperature: 43
+State: S2
+S2 State: S2
+Temperature: 11
+State: S3
+S3 State: S1
+Temperature: 35
+State: S1
+Temperature: 40
+State: S2
+S2 State: S2
+Temperature: 40
+State: S2
+S2 State: S2
+Temperature: 2
+State: S3
+S3 State: S2
+Temperature: 27
+State: S3
+S3 State: S1
+Temperature: 0
+State: S3
+S3 State: S2
+Temperature: 50
+State: S2
+S2 State: S3
+Temperature: 3
+State: S3
+S3 State: S2
+Temperature: 18
+State: S3
+S3 State: S1
+Temperature: 9
+State: S3
+S3 State: S1
+Temperature: 36
+State: S2
+S2 State: S2
+Temperature: 48
+State: S2
+S2 State: S3
+Temperature: 8
+State: S3
+S3 State: S1
+Temperature: 0
+State: S3
+S3 State: S2
+Temperature: 21
+State: S3
+S3 State: S1
+Temperature: 25
+State: S3
+S3 State: S1
+Temperature: -7
+State: S3
+S3 State: S3
+Temperature: 17
+State: S3
+S3 State: S1
+Temperature: 8
+State: S3
+S3 State: S1
+Temperature: 15
+State: S3
+S3 State: S1
+Temperature: 24
+State: S3
+S3 State: S1
+Temperature: 22
+State: S3
+S3 State: S1
+Temperature: 22
+State: S3
+S3 State: S1
+Temperature: 10
+State: S3
+S3 State: S1
+Temperature: 16
+State: S3
+S3 State: S1
+Temperature: 48
+State: S2
+S2 State: S3
+Temperature: 19
+State: S1
+Temperature: 47
+State: S2
+S2 State: S3
+Temperature: 44
+State: S2
+S2 State: S3
+Temperature: -2
+State: S3
+S3 State: S2
+Temperature: 44
+State: S2
+S2 State: S3
+Temperature: 14
+State: S3
+S3 State: S2
+Temperature: 21
+State: S3
+S3 State: S1
+Temperature: 25
+State: S3
+S3 State: S1
+Temperature: 46
+State: S2
+S2 State: S3
+Temperature: -10
+State: S3
+S3 State: S3
+Temperature: 22
+State: S3
+S3 State: S1
+Temperature: 3
+State: S3
+S3 State: S2
+Temperature: 33
+State: S1
+Temperature: 35
+State: S1
+Temperature: 3
+State: S3
+S3 State: S2
+Temperature: 8
+State: S3
+S3 State: S2
+Temperature: -3
+State: S3
+S3 State: S2
+Temperature: 38
+State: S2
+S2 State: S2
+Temperature: 6
+State: S3
+S3 State: S2
+Temperature: 33
+State: S1
+Temperature: 41
+State: S2
+S2 State: S2
+Temperature: -10
+State: S3
+S3 State: S3
+Temperature: 30
+State: S3
+S3 State: S1
+Temperature: 1
+State: S3
+S3 State: S2
+Temperature: 24
+State: S3
+S3 State: S1
+Temperature: -7
+State: S3
+S3 State: S3
+Temperature: 43
+State: S2
+S2 State: S2
+Temperature: 49
+State: S2
+S2 State: S3
+Temperature: 6
+State: S3
+S3 State: S2
+Temperature: -4
+State: S3
+S3 State: S2
+Temperature: 10
+State: S3
+S3 State: S2
+Temperature: 8
+State: S3
+S3 State: S2
+Temperature: 30
+State: S3
+S3 State: S1
+Temperature: 25
+State: S3
+S3 State: S1
+Temperature: 15
+State: S3
+S3 State: S1
+Temperature: 16
+State: S3
+S3 State: S1
+Temperature: 36
+State: S2
+S2 State: S2
+Temperature: 25
+State: S2
+S2 State: S1
+Temperature: 13
+State: S3
+S3 State: S1
+Temperature: 50
+State: S2
+S2 State: S3
+Temperature: 27
+State: S2
+S2 State: S1
+Temperature: 35
+State: S2
+S2 State: S1
+Temperature: 11
+State: S3
+S3 State: S1
+Temperature: 25
+State: S3
+S3 State: S1
+Temperature: 47
+State: S2
+S2 State: S3
+Temperature: 50
+State: S2
+S2 State: S3
+Temperature: 22
+State: S1
+Temperature: 26
+State: S1
+Temperature: 39
+State: S2
+S2 State: S2
+Temperature: -6
+State: S3
+S3 State: S3
+Temperature: 14
+State: S3
+S3 State: S2
+Temperature: 19
+State: S3
+S3 State: S1
+Temperature: -7
+State: S3
+S3 State: S3
+Temperature: 47
+State: S2
+S2 State: S3
+Temperature: 19
+State: S1
+Temperature: 14
+State: S3
+S3 State: S2
+Temperature: 22
+State: S3
+S3 State: S1
+Temperature: 10
+State: S3
+S3 State: S1
+Temperature: 3
+State: S3
+S3 State: S2
+Temperature: 19
+State: S3
+S3 State: S1
+Temperature: 24
+State: S3
+S3 State: S1
+Temperature: 12
+State: S3
+S3 State: S1
+Temperature: -1
+State: S3
+S3 State: S2
+Temperature: 28
+State: S3
+S3 State: S1
+Temperature: 8
+State: S3
+S3 State: S1
+Temperature: 25
+State: S3
+S3 State: S1
