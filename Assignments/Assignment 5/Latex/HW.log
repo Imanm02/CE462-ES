@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  7 NOV 2023 11:33
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  7 NOV 2023 11:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1044,13 +1044,8 @@ File: pic2.jpg Graphic file (type bmp)
 <pic2.jpg>
  [1
 
-] [2]
-Overfull \hbox (0.80801pt too wide) in paragraph at lines 67--68
-[]\TU/XBNiloofar(0)/m/n/12 معرفی و توضیح فناوری‌های کلیدی که AMI را امکان‌پذیر 
-می‌سازند، مانند شبکه‌های حسگر بی‌سیم، هوش مصنوعی،[]
- []
-
-[3]) [4] (HW.aux)
+] [2]) [3]
+(HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1061,12 +1056,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12400 strings out of 409722
- 249138 string characters out of 5780279
- 1925164 words of memory out of 5000000
- 34111 multiletter control sequences out of 15000+600000
- 561605 words of font info for 84 fonts, out of 8000000 for 9000
+ 12402 strings out of 409722
+ 249234 string characters out of 5780279
+ 1926164 words of memory out of 5000000
+ 34112 multiletter control sequences out of 15000+600000
+ 561613 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  86i,10n,99p,2401b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (4 pages).
+Output written on HW.pdf (3 pages).
