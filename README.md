@@ -10,6 +10,7 @@ This repository contains solutions to the assignments, course slides, and other 
 - [Overview](#overview)
 - [Assignments](#assignments)
 - [Slides](#slides)
+- [Exercises](#exercises)
 - [Source](#source)
 - [Maintainer](#Maintainer)
 
