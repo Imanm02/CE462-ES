@@ -21,9 +21,9 @@ In the "Assignments" folder, you will find the solutions to the assignments give
 
 The "Slides" folder contains the course slides used by Dr. Ansari during the lectures.
 
-## Slides
+## Exercises
 
-The "Slides" folder contains the course slides used by Dr. Ansari during the lectures.
+The "Exercises" folder contains the Exercises of the course which were given to us an examples.
 
 ## Source
 
