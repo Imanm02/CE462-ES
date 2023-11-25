@@ -29,7 +29,7 @@ The "Exercises" folder contains the exercises of the course which were given to 
 
 ## Notes
 
-The "Notes" folder contains the notes of the course which were writted by the students.
+The "Notes" folder contains the notes of the course which were written by the students.
 
 ## Source
 
