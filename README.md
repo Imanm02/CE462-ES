@@ -27,9 +27,9 @@ The "Slides" folder contains the course slides used by Dr. Ansari during the lec
 
 The "Exercises" folder contains the exercises of the course which were given to us an examples.
 
-## Exercises
+## Notes
 
-The "Exercises" folder contains the exercises of the course which were given to us an examples.
+The "Notes" folder contains the exercises of the course which were given to us an examples.
 
 ## Source
 
