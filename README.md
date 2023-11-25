@@ -11,6 +11,7 @@ This repository contains solutions to the assignments, course slides, and other 
 - [Assignments](#assignments)
 - [Slides](#slides)
 - [Exercises](#exercises)
+- [Exercises](#exercises)
 - [Source](#source)
 - [Maintainer](#Maintainer)
 
