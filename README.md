@@ -3,7 +3,7 @@ Solutions to Dr. Ansari's CE462: Embedded Systems (Sharif University of Technolo
 
 ## Overview
 
-This repository contains solutions to the assignments, course slides, and other useful resources for the CE462: Embedded Systems course at Sharif University of Technology, Fall 2023 & Spring 2024, taught by Dr. Ansari.
+This repository contains solutions to the assignments, course slides, and other useful resources for the CE462: Embedded Systems course at the Sharif University of Technology, Fall 2023 & Spring 2024, taught by Dr. Ansari.
 
 ## Table of Contents
 
