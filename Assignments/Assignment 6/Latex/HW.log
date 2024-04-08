@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  8 APR 2024 14:28
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  8 APR 2024 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1072,7 +1072,7 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
 File: 12.jpg Graphic file (type bmp)
 <12.jpg>
 
-Overfull \hbox (210.39458pt too wide) in paragraph at lines 24--26
+Overfull \hbox (2.6188pt too wide) in paragraph at lines 24--26
  [][][][][][] 
  []
 
@@ -1090,29 +1090,30 @@ Overfull \hbox (128.3382pt too wide) in paragraph at lines 49--51
 [1
 
 ]
-Overfull \hbox (7.23895pt too wide) in paragraph at lines 57--58
-[]\TU/XBNiloofar(0)/m/n/12 فایل‌های با پسوند \TU/lmtt/m/n/12 .slx \TU/XBNiloofa
-r(0)/m/n/12 فایل‌های مدل‌سازی Simulink در MATLAB هستند و معمولاً برای شبیه‌سازی
- سیستم‌های[]
- []
-
 File: 2.jpg Graphic file (type bmp)
 <2.jpg>
-[2]
+ [2]
 File: 4.jpg Graphic file (type bmp)
 <4.jpg>
- [3]
+File: 17.jpg Graphic file (type bmp)
+<17.jpg>
+
+Overfull \hbox (211.90019pt too wide) in paragraph at lines 81--83
+ [][][][][][] 
+ []
+
+[3]
 File: 6.jpg Graphic file (type bmp)
 <6.jpg>
 
-Overfull \hbox (123.36964pt too wide) in paragraph at lines 85--87
+Overfull \hbox (123.36964pt too wide) in paragraph at lines 91--93
  [][][][][][] 
  []
 
 File: 7.jpg Graphic file (type bmp)
 <7.jpg>
 
-Overfull \hbox (125.17639pt too wide) in paragraph at lines 91--93
+Overfull \hbox (125.17639pt too wide) in paragraph at lines 97--99
  [][][][][][] 
  []
 
@@ -1120,7 +1121,7 @@ Overfull \hbox (125.17639pt too wide) in paragraph at lines 91--93
 File: 8.jpg Graphic file (type bmp)
 <8.jpg>
 
-Overfull \hbox (177.27087pt too wide) in paragraph at lines 97--99
+Overfull \hbox (177.27087pt too wide) in paragraph at lines 103--105
  [][][][][][] 
  []
 
@@ -1128,7 +1129,7 @@ Overfull \hbox (177.27087pt too wide) in paragraph at lines 97--99
 File: 9.jpg Graphic file (type bmp)
 <9.jpg>
 
-Overfull \hbox (378.27136pt too wide) in paragraph at lines 103--105
+Overfull \hbox (378.27136pt too wide) in paragraph at lines 109--111
  [][][][][][] 
  []
 
@@ -1136,7 +1137,7 @@ Overfull \hbox (378.27136pt too wide) in paragraph at lines 103--105
 File: 10.jpg Graphic file (type bmp)
 <10.jpg>
 
-Overfull \hbox (240.50699pt too wide) in paragraph at lines 109--111
+Overfull \hbox (240.50699pt too wide) in paragraph at lines 115--117
  [][][][][][] 
  []
 
@@ -1147,7 +1148,7 @@ File: 11.jpg Graphic file (type bmp)
 File: 16.jpg Graphic file (type bmp)
 <16.jpg>
 
-Overfull \hbox (238.24857pt too wide) in paragraph at lines 127--129
+Overfull \hbox (238.24857pt too wide) in paragraph at lines 133--135
  [][][][][][] 
  []
 
@@ -1162,10 +1163,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12509 strings out of 409722
- 250398 string characters out of 5780279
+ 12518 strings out of 409722
+ 250500 string characters out of 5780279
  1924164 words of memory out of 5000000
- 34207 multiletter control sequences out of 15000+600000
+ 34215 multiletter control sequences out of 15000+600000
  561613 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  86i,10n,99p,2401b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
