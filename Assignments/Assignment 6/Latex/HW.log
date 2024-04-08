@@ -1105,12 +1105,6 @@ File: 6.jpg Graphic file (type bmp)
 <6.jpg>
 File: 7.jpg Graphic file (type bmp)
 <7.jpg>
-
-Overfull \hbox (125.17639pt too wide) in paragraph at lines 97--99
- [][][][][][] 
- []
-
-[4]
 File: 8.jpg Graphic file (type bmp)
 <8.jpg>
 
@@ -1118,7 +1112,7 @@ Overfull \hbox (177.27087pt too wide) in paragraph at lines 103--105
  [][][][][][] 
  []
 
-[5]
+[4]
 File: 9.jpg Graphic file (type bmp)
 <9.jpg>
 
@@ -1126,7 +1120,7 @@ Overfull \hbox (378.27136pt too wide) in paragraph at lines 109--111
  [][][][][][] 
  []
 
-[6]
+[5]
 File: 10.jpg Graphic file (type bmp)
 <10.jpg>
 
@@ -1134,10 +1128,10 @@ Overfull \hbox (240.50699pt too wide) in paragraph at lines 115--117
  [][][][][][] 
  []
 
-[7]
+[6]
 File: 11.jpg Graphic file (type bmp)
 <11.jpg>
- [8] [9]
+ [7] [8]
 File: 16.jpg Graphic file (type bmp)
 <16.jpg>
 
@@ -1145,7 +1139,7 @@ Overfull \hbox (238.24857pt too wide) in paragraph at lines 133--135
  [][][][][][] 
  []
 
-[10] [11]) [12] (HW.aux)
+[9] [10]) [11] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1164,4 +1158,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  86i,10n,99p,2401b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (12 pages).
+Output written on HW.pdf (11 pages).
