@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  8 APR 2024 14:26
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  8 APR 2024 14:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1146,7 +1146,12 @@ File: 11.jpg Graphic file (type bmp)
  [8] [9]
 File: 16.jpg Graphic file (type bmp)
 <16.jpg>
- [10] [11]) [12] (HW.aux)
+
+Overfull \hbox (238.24857pt too wide) in paragraph at lines 127--129
+ [][][][][][] 
+ []
+
+[10] [11]) [12] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
