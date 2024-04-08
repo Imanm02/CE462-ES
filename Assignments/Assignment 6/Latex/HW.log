@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  8 APR 2024 14:32
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  8 APR 2024 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -956,6 +956,9 @@ LaTeX Warning: Label `fig:label4' multiply defined.
 
 LaTeX Warning: Label `fig:label4' multiply defined.
 
+
+LaTeX Warning: Label `fig:label4' multiply defined.
+
 )
 \openout1 = `HW.aux'.
 
@@ -1097,19 +1100,9 @@ File: 4.jpg Graphic file (type bmp)
 <4.jpg>
 File: 17.jpg Graphic file (type bmp)
 <17.jpg>
-
-Overfull \hbox (211.90019pt too wide) in paragraph at lines 81--83
- [][][][][][] 
- []
-
-[3]
+ [3]
 File: 6.jpg Graphic file (type bmp)
 <6.jpg>
-
-Overfull \hbox (123.36964pt too wide) in paragraph at lines 91--93
- [][][][][][] 
- []
-
 File: 7.jpg Graphic file (type bmp)
 <7.jpg>
 
