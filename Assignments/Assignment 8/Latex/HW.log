@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  7 NOV 2023 12:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  14 APR 2024 10:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1039,12 +1039,12 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
 File: pic1.jpg Graphic file (type bmp)
 <pic1.jpg>
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 23.
+(Font)              scaled to size 12.0pt on input line 18.
 File: pic2.jpg Graphic file (type bmp)
 <pic2.jpg>
  [1
 
-] [2] [3])
+] [2]) [3]
 [4] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
@@ -1058,7 +1058,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  12404 strings out of 409722
  249327 string characters out of 5780279
- 1929164 words of memory out of 5000000
+ 1927164 words of memory out of 5000000
  34113 multiletter control sequences out of 15000+600000
  561621 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
