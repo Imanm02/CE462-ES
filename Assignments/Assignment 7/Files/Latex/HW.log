@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 APR 2024 08:43
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  9 MAY 2024 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1151,10 +1151,10 @@ File: commons/image3.png Graphic file (type bmp)
 <commons/image3.png>
 File: commons/image4.png Graphic file (type bmp)
 <commons/image4.png>
- [2]
+ [2] [3]
 File: commons/image5.png Graphic file (type bmp)
 <commons/image5.png>
-) [3] (HW.aux)
+) [4] (HW.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -1167,12 +1167,12 @@ Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25389 strings out of 409722
- 468264 string characters out of 5780279
- 1927164 words of memory out of 5000000
- 46930 multiletter control sequences out of 15000+600000
+ 25390 strings out of 409722
+ 468274 string characters out of 5780279
+ 1928164 words of memory out of 5000000
+ 46931 multiletter control sequences out of 15000+600000
  560416 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,10n,113p,1324b,343s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.pdf (3 pages).
+Output written on HW.pdf (4 pages).
